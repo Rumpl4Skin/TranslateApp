@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TranslateApp</string>
+    <string name="ic_chat_label">Chat</string>
+    <string name="ic_camera_label">Camera</string>
+    <string name="ic_history_label">History</string>
+    <string name="ic_favorite_label">Favorite</string>
 </resources>
